@@ -1,0 +1,179 @@
+# ─────────────────────────────────────────────────────────────
+#  TU PÁGINA DE INVESTIGADOR
+#  Este es el ÚNICO archivo que necesitas editar.
+#  Página publicada: https://investigadores-cica.pages.dev/ricardo-prado
+#  Este repositorio es público: no pongas datos personales
+#  (celular, domicilio particular). Todo queda en el historial.
+#  Reglas: respeta los espacios al inicio de cada línea,
+#  y deja entre comillas los textos que lleven dos puntos (:).
+#  Si un dato no aplica, déjalo vacío ("") y no aparecerá.
+# ─────────────────────────────────────────────────────────────
+
+tratamiento: Dr.
+nombre: Ricardo Ignacio Prado Hurtado
+cargo: Profesor investigador
+adscripcion: Centro de Investigación para la Comunicación Aplicada (CICA), Facultad de Comunicación
+institucion: Universidad Anáhuac México
+
+# Una sola oración que resuma tu línea de pensamiento.
+frase: Estudia cómo la publicidad, las redes y las imágenes cambian lo que comemos, lo que recordamos y cómo nos representamos, y lo observa con métodos visuales como la cámara colaborativa y el eye tracking.
+
+# Foto: pega el enlace de tu foto, o sube la imagen a este repositorio y escribe aquí su nombre (ej. foto.jpg).
+# Se muestra en círculo; funciona mejor una foto cuadrada con la cara al centro.
+foto: "https://latinoamerica21.com/wp-content/uploads/2023/04/Ricardo-Ignacio-Prado-Hurtado.webp"
+# Encuadre de la foto (opcional): foto_zoom acerca la imagen (1 = sin acercar);
+# foto_posicion dice qué parte se ve: horizontal y vertical, en % ("50% 0%" = centro, arriba).
+foto_zoom: 1
+foto_posicion: "50% 20%"
+
+# Color de acento de tu página (opcional).
+color: "#F29B66"
+
+temas:
+  - Publicidad y alimentos ultraprocesados
+  - Métodos visuales y eye tracking
+  - Patrimonio, inteligencia artificial y realidad virtual
+  - Comunicación política y representación visual
+
+# Tu semblanza. Separa los párrafos con una línea en blanco.
+# Usa *asteriscos* para poner títulos de obras en cursivas.
+bio: |
+  Doctor en Investigación de la Comunicación por la Universidad Anáhuac México y doctor en Ciencias de la Información por la Université Savoie Mont-Blanc, en Francia. Es profesor investigador del Centro de Investigación para la Comunicación Aplicada (CICA) de la Facultad de Comunicación de la Universidad Anáhuac México.
+
+  Buena parte de su trabajo estudia la publicidad de los alimentos ultraprocesados: cómo se anuncian en redes sociales, cómo han cambiado la dieta tradicional de México frente a la de España y Estados Unidos, y qué hacen las ONG de Brasil, Colombia, Estados Unidos y México ante la publicidad engañosa. Para observarlo usa métodos visuales, como la cámara colaborativa y el eye tracking, en estudios que comparan a Francia con México.
+
+  También investiga el patrimonio monumental mexicano con inteligencia artificial y entornos inmersivos de realidad virtual, la representación visual de la otredad en el discurso presidencial, las tácticas cotidianas de protesta y la adaptación literaria en el cine mexicano de 1939 a 1955. Publica columnas de análisis en *Latinoamérica21*.
+
+distinciones: []
+
+# ── PERFILES ACADÉMICOS ──────────────────────────────────────
+# Pega el enlace completo. En ORCID basta el número.
+perfiles:
+  orcid: 0000-0002-4502-428X
+  google_scholar: ""
+  scopus: ""
+  researchgate: ""
+  academia_edu: ""
+  linkedin: ""
+  sitio_web: ""
+
+contacto:
+  correo: ""
+  direccion: Av. Universidad Anáhuac 46, Lomas Anáhuac, Huixquilucan, Estado de México, 52786
+
+# ── PUBLICACIONES ────────────────────────────────────────────
+# Copia un bloque completo (desde el guion "-") para agregar una nueva.
+# tipo: libro | articulo | capitulo | ponencia | preprint | editorial | otro
+# Para resaltar una obra en grande, agrégale: destacada: true
+publicaciones:
+  - anio: 2026
+    tipo: articulo
+    titulo: "Entornos inmersivos en YouTube VR para la concientización social del Patrimonio Histórico Monumental: el caso del Sagrario Metropolitano"
+    autores: R. I. Prado Núñez y R. I. Prado Hurtado
+    fuente: Sintaxis, núm. 16
+    enlace: https://doi.org/10.36105/stx.2026n16.10
+
+  - anio: 2026
+    tipo: articulo
+    titulo: Métodos visuales para investigar la comunicación desde perspectivas creativas y multimodales
+    autores: F. R. Contreras Medina, R. I. Prado Hurtado, C.-A. Delestage y A. Marín Carrillo
+    fuente: Universidade do Algarve, vol. 6, núm. 2
+    enlace: https://doi.org/10.34623/2184-8661.2026.v6i2.689
+
+  - anio: 2025
+    tipo: articulo
+    titulo: "Hacia una política de la táctica: dispositivos cotidianos de resistencia y protesta desde México"
+    autores: A. Ruiz Méndez y R. I. Prado Hurtado
+    fuente: "Chasqui. Revista Latinoamericana de Comunicación, núm. 160"
+    enlace: https://doi.org/10.16921/chasqui.v1i160.5226
+
+  - anio: 2025
+    tipo: capitulo
+    titulo: Ethical Considerations in the Use of Artificial Intelligence in the Audiovisual Field
+    autores: R. I. Arévalo-Martínez, R. del Prado Flores y R. I. Prado Hurtado
+    fuente: En Research Series on Responsible Enterprise Ecosystems (Springer)
+    enlace: https://doi.org/10.1007/978-3-031-80411-3_3
+
+  - anio: 2025
+    tipo: capitulo
+    titulo: "Who is the People's Enemy? Performative Construction and Visual Representation Through AI of the Otherness in the Political Communication of Presidential Discourse in Mexico"
+    autores: A. Ruiz Méndez, R. I. Prado Hurtado y S. T. Díaz-Torres
+    fuente: En Global Political Sociology (Springer)
+    enlace: https://doi.org/10.1007/978-3-031-77868-1_4
+
+  - anio: 2025
+    tipo: articulo
+    titulo: "Rescatando la historia: comunicación para la innovación y conciencia en la restauración del patrimonio monumental mexicano por medio de la inteligencia artificial"
+    autores: R. I. Prado Núñez y R. I. Prado Hurtado
+    fuente: Sintaxis, núm. 14
+    enlace: https://doi.org/10.36105/stx.2025n14.06
+
+  - anio: 2025
+    tipo: libro
+    titulo: "Perspectivas contemporáneas de Arquitectura y Hábitat: aportes desde la formación de posgrado"
+    autores: F. Córdova Canela et al. (obra colectiva)
+    fuente: Universidad de Guadalajara
+    enlace: https://doi.org/10.32870/9786075819013
+
+  - anio: 2024
+    tipo: articulo
+    titulo: "Cereales ultraprocesados: un estudio de métodos visuales sobre su comunicación en redes, comparativo entre Francia y México. Uso de cámara colaborativa y eye tracking"
+    autores: R. I. Prado Hurtado
+    fuente: Sintaxis, núm. 12
+    enlace: https://doi.org/10.36105/stx.2024n12.13
+    destacada: true
+
+  - anio: 2023
+    tipo: articulo
+    titulo: "Comunicación y retos de las ONG en Brasil, Colombia, Estados Unidos y México: el caso de la publicidad engañosa en los alimentos ultraprocesados"
+    autores: R. I. Prado Hurtado y M. D. Lozano Gutiérrez
+    fuente: Sintaxis, núm. 11
+    enlace: https://doi.org/10.36105/stx.2023n11.06
+
+  - anio: 2023
+    tipo: articulo
+    titulo: "Adaptación y novelización en el cine en México (1939-1955): dos casos de estudio"
+    autores: R. I. Prado Hurtado
+    fuente: Sintaxis, núm. 11
+    enlace: https://doi.org/10.36105/stx.2023n11.11
+
+  - anio: 2022
+    tipo: articulo
+    titulo: Satisfacción del consumidor y comunicación interpersonal en restaurantes de España, Francia, México y Portugal
+    autores: M. D. Lozano Gutiérrez y R. I. Prado Hurtado
+    fuente: Pangea. Revista de la Red Académica Iberoamericana de Comunicación, vol. 12, núm. 1
+    enlace: https://doi.org/10.52203/pangea.v12i1.137
+
+  - anio: 2022
+    tipo: articulo
+    titulo: "Comunicación a larga distancia: publicidad en México en la emergencia sanitaria, coincidencias y divergencias"
+    autores: R. I. Prado Hurtado y M. D. Lozano Gutiérrez
+    fuente: Sintaxis, núm. 8
+    enlace: https://doi.org/10.36105/stx.2022n8.05
+
+  - anio: 2019
+    tipo: articulo
+    titulo: "Fenómenos publicitarios y sociales de cambio en la dieta tradicional de México: comparativa con España y Estados Unidos"
+    autores: R. I. Prado Hurtado
+    fuente: Sintaxis, núm. 3
+    enlace: https://doi.org/10.36105/stx.2019n3.06
+
+  - anio: 2018
+    tipo: capitulo
+    titulo: "Misleading videos of industrially ultra-processed cereals: visual methods for social awareness"
+    autores: M. A. Rebeil Corella, J. L. Flores Torres y R. I. Prado Hurtado
+    fuente: Dialnet
+    enlace: https://dialnet.unirioja.es/servlet/articulo?codigo=6850116
+
+formacion:
+  - anio: ""
+    titulo: Doctorado en Investigación de la Comunicación
+    institucion: Universidad Anáhuac México
+    nota: ""
+  - anio: ""
+    titulo: Doctorado en Ciencias de la Información
+    institucion: Université Savoie Mont-Blanc (Francia)
+    nota: ""
+
+# Fecha de la última revisión de esta página (año-mes-día).
+actualizado: "2026-11-23"
